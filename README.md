@@ -16,4 +16,4 @@
 
 ## 安装手顺书
 
-- [Windows10+Android+FlutterSDK](./Flutter手順書.xlsx)
+- [Windows10+AndroidStudio+FlutterSDK](./Flutter手順書.xlsx)
